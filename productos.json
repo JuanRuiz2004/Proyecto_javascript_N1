@@ -1,0 +1,148 @@
+[
+    {
+        "img": "/imagenes/arroz.png",
+        "alt": "Arroz_arroba",
+        "nombre": "Arroz x arroba",
+        "peso": "12.5kg",
+        "precio": "$47.800COP",
+        "id": "Arroz1",
+        "busqueda": "arroz"
+    },
+    {
+        "img": "/imagenes/florhuilagod.png",
+        "alt": "Arroz_unidad",
+        "nombre": "Arroz Florhuila x unidad",
+        "peso": "500gr",
+        "precio": "$2.350COP",
+        "id": "Arroz2",
+        "busqueda":"arroz"
+    },
+    {
+        "img": "/imagenes/diana.jpg",
+        "alt": "Arroz_unidad",
+        "nombre": "Diana Integral x unidad",
+        "peso": "500gr",
+        "precio": "$3.800COP",
+        "id": "Arroz3",
+        "busqueda":"arroz"
+    },
+    {
+        "img": "/imagenes/cerearroz.jpeg",
+        "alt": "Arroz_unidad",
+        "nombre": "Arroz Cereal x unidad",
+        "peso": "500gr",
+        "precio": "$2.000COP",
+        "id": "Arroz4",
+        "busqueda":"arroz"
+    },
+    {
+        "img": "/imagenes/aceitex12.png",
+        "alt": "Aceite_caja",
+        "nombre": "Aceite vegetal 12x2L",
+        "peso": "24L",
+        "precio": "$100.700COP",
+        "id": "Aceite1",
+        "busqueda":"aceite"
+    },
+    {
+        "img": "/imagenes/aceite_unidad.png",
+        "alt": "Aceite_unidad",
+        "nombre": "Aceite vegetal 2L",
+        "peso": "2L",
+        "precio": "$10.400COP",
+        "id": "Aceite2",
+        "busqueda":"aceite"
+    },
+    {
+        "img": "/imagenes/vegetal.jpeg",
+        "alt": "Aceite_vegetal",
+        "nombre": "Aceite vegetal",
+        "peso": "2L",
+        "precio": "$7.800COP",
+        "id": "Aceite3",
+        "busqueda":"aceite"
+    },
+    {
+        "img": "/imagenes/oliva.png",
+        "alt": "Aceite_caja",
+        "nombre": "Aceite oliva",
+        "peso": "1L",
+        "precio": "$12.400COP",
+        "id": "Aceite4",
+        "busqueda":"aceite"
+    },
+    {
+        "img": "/imagenes/papitasx12.png",
+        "alt": "Paquete_grande",
+        "nombre":"Paquete de papas 25grx12",
+        "peso":"624gr",
+        "precio":"$20.700COP",
+        "id":"Papas1",
+        "busqueda":"papas"
+    },
+    {
+        "img": "/imagenes/doritos.jpeg",
+        "alt": "Paquete_grande",
+        "nombre":"Doritos Dinamita x uniadd",
+        "peso":"624gr",
+        "precio":"$20.700COP",
+        "id":"Papas2",
+        "busqueda":"papas"
+    },
+    {
+        "img": "/imagenes/descargar.jpeg",
+        "alt": "takis_unidad",
+        "nombre":"Takis x unidad",
+        "peso":"25gr",
+        "precio":"$1.600COP",
+        "id":"Papas3",
+        "busqueda":"papas"
+    },
+    {
+        "img": "/imagenes/papitas_unidad.png",
+        "alt": "Papas_unidad",
+        "nombre":"Papas margarita unidad",
+        "peso":"25gr",
+        "precio":"$1.600COP",
+        "id":"Papas4",
+        "busqueda":"papas"
+    }
+
+    ,
+    {
+        "img": "/imagenes/coca-cola-400-x12.png",
+        "alt": "Gaseosa_paca",
+        "nombre":"Cocacola x paca",
+        "peso":"1440ml",
+        "precio":"$18.300COP",
+        "id":"Gaseosa1",
+        "busqueda":"gaseosa"
+    },
+    {
+        "img": "/imagenes/fanta.jpg",
+        "alt": "Fanta",
+        "nombre":"Fanta x unidad",
+        "peso":"380ml",
+        "precio":"$1.700COP",
+        "id":"Gaseosa2",
+        "busqueda":"gaseosa"
+    },
+    {
+        "img": "/imagenes/colombiana-pet-400-ml.png",
+        "alt": "colombiana",
+        "nombre":"Colombiana x unidad",
+        "peso":"400ml",
+        "precio":"$1.800COP",
+        "id":"Gaseosa3",
+        "busqueda":"gaseosa"
+    },
+    {
+        "img": "/imagenes/coca_cola_unidad.png",
+        "alt": "Gaseosa_unidad",
+        "nombre":"Cocacola x unidad",
+        "peso":"400ml",
+        "precio":"$2.000COP",
+        "id":"Gaseosa4",
+        "busqueda":"gaseosa"
+    }
+]
